@@ -13,8 +13,8 @@
 </div><br>
 <div align="center">
   <a href="https://github.com/Rafaelfmo">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Rafaelfmo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelfmo&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Rafaelfmo&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelfmo&layout=compact&langs_count=7&theme=nord"/>
 </div>
   <div align="center">
     <h2> Minhas redes sociais </h2> 
