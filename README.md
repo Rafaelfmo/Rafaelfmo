@@ -1,7 +1,7 @@
  <div align = "center">
   Olá, seja bem-vindo! Sou o Rafaelfmo 👋<br>
- 🚀 Estou em busca da minha primeira experiência profissional!<br>  
- 💻 Atualmente estudo JavaScript/HTML5/CSS3 <br>
+ 🚀 Estou em busca de um emprego na área de TI!<br>  
+ 💻 Atualmente estou no 4° semestre de Ciência da Computação <br>
 <br> <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </div>  
 <div align="center">
