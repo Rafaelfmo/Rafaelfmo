@@ -1,9 +1,8 @@
  <div align = "center">
-  Olá, seja bem-vindo! Sou o Rafaelfmo 👋<br>
- 🚀 Estou em busca de um emprego na área de TI!<br>  
- 💻 Atualmente estou no 4° semestre de Ciência da Computação. <br>
+  Olá, seja bem-vindo! Sou o Rafaelfmo 👋<br>  
+ 💻 Atualmente estou no 4° semestre de Ciência da Computação. 🚀<br>
 <br> <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
-</div> 
+</div>
 <div align="center">
   <h1> Tecnologias que estou aprendendo </h1>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
