@@ -1,6 +1,7 @@
  <div align = "center">
   Olá, seja bem-vindo! Sou o Rafaelfmo 👋<br>  
-  Atualmente estou no 8° semestre de Ciência da Computação. 🚀<br>
+  Sou formado em Ciência da Computação. 🚀<br>
+  Atualmente estou fazendo um mestrado em Informática Aplicada! 💻 <br>
 <br> <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </div>
 <div align="center">
